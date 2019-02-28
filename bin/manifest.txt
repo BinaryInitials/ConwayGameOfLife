@@ -1,0 +1,1 @@
+Main-Class: conway.gameoflife.GameOfLife
